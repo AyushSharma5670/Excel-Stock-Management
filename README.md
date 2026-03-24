@@ -19,4 +19,4 @@ This project is an **Excel-based inventory management system** for tracking prod
 4. Low stock items are highlighted in **red**.  
 
 ## GitHub Link
-[Excel Stock Management Dashboard](https://github.com/YOUR_USERNAME/Excel-Stock-Management)# Excel-Stock-Management
+https://github.com/AyushSharma5670/Excel-Stock-Management/blob/main/data_stock_m1.xlsx# Excel-Stock-Management
